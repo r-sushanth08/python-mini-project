@@ -196,6 +196,9 @@ Found this helpful? Show some love!
 
 ## 🙌 Contributors
 
+- rishit537
+
+
 - vedika76
 
 
